@@ -43,6 +43,24 @@ To create IAM users, organize them into groups, and assign permissions using pol
 
 #### Screenshots
    - IAM User Creation
+     <img width="1440" height="813" alt="IAM User" src="https://github.com/user-attachments/assets/679525e5-fd30-44be-b43d-7bbf02727243" />
+
+   - IAM Group Creation
+     <img width="1432" height="812" alt="IAM Group" src="https://github.com/user-attachments/assets/dd73bc5f-1ff8-4226-b586-3fc58aa814d5" />
+
+   - Policy Attachment
+     <img width="1436" height="814" alt="Policy" src="https://github.com/user-attachments/assets/ce3722c6-622e-43eb-a305-822d19a73455" />
+
+   - Access Denied Error
+     <img width="681" height="149" alt="Denied" src="https://github.com/user-attachments/assets/7e358661-ece4-45fc-9feb-ed10c39e4a2b" />
+
+     
+
+     
+      
+
+
+
 
 
     
