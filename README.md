@@ -14,8 +14,14 @@ Launch an EC2 instance and host a website
 4. Hosted webpage
 
 ## Issues Faced
-- Could not connect - ficed security group
+- Could not connect - fixed security group
+
+## 📸 Screenshot
+! [EC2 Screenshot] (ec2.png)
+! [Website Output] (website.png)
 
 ## Outcome
 Website hosted successfully
+
+
 
