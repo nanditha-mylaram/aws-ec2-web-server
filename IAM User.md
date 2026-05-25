@@ -38,7 +38,7 @@ To create IAM users, organize them into groups, and assign permissions using pol
 #### Outcome
    - Successfully implemented IAM access control for one user
    - Understood how group-based permission work
-   - Learned hoe to test and verify access limitations
+   - Learned how to test and verify access limitations
 
 
 #### Screenshots
