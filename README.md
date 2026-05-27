@@ -23,7 +23,6 @@ Launch an EC2 instance and host a website
 
 ![Website Output](images/website.png)
 
-![IAM User](images/IAM%20User.png)
 
 ## Outcome
 Website hosted successfully
