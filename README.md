@@ -17,17 +17,13 @@ Launch an EC2 instance and host a website
 - Could not connect - fixed security group
 
 ## 📸 Screenshot
-! [EC2 Instance]
-<img width="1433" height="808" alt="ec2" src="https://github.com/user-attachments/assets/b632896d-7907-4fe9-ac0f-703e4a4aadef" />
+![EC2 Instance](images/ec2.png)
 
-! [SSH terminal]
-<img width="1440" height="900" alt="SSH Terminal" src="https://github.com/user-attachments/assets/a7d627d8-67b7-4e69-8e8e-ab00e436cd58" />
+![SSH terminal](images/console.png)
 
-! [Website Output]
-<img width="1433" height="856" alt="website" src="https://github.com/user-attachments/assets/7f0f537a-b5a9-49af-a4ef-f043483d8efb" />
+![Website Output](images/website.png)
+
+![IAM User](images/IAM%20User.png)
 
 ## Outcome
 Website hosted successfully
-
-
-
